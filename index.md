@@ -1,310 +1,44 @@
-# 欢迎使用 Markdown在线编辑器 MdEditor
+<!-- saved from url=(0014)about:internet -->
 
-**Markdown是一种轻量级的「标记语言」**
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+<meta name="”viewport”" content="”width=device-width," initial-scale="1.0," minimum-scale="0.5," maximum-scale="2.0," user-scalable="yes”">
 
-![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
+<title>信阳高级中学</title>
 
+<meta name="renderer" content="webkit">
 
-Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+<meta name="format-detection" content="telephone=no">
 
-## MdEditor是一个在线编辑Markdown文档的编辑器
+<link rel="shortcut icon" href="http://www.xygz.com.cn/uploads/214/image/public/201908/20190816093833_prncofwerv.ico" type="image/x-icon">
 
-*MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。*
+<link rel="icon" href="http://www.xygz.com.cn/uploads/214/image/public/201908/20190816093833_prncofwerv.ico" sizes="32x32">
 
-> Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如~~Pandoc~~，Pandao；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。
+<meta name="keywords" content="信阳高级中学,河南省信阳高级中学">
 
-MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://github.com/pandao/editor.md "Editor.md")，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。
+<meta name="description" content="信阳高级中学,河南省信阳高级中学">
 
+<link rel="stylesheet" href="./中学_files/index_rh.css">
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+<script src="./中学_files/hm.js"></script>
 
+<script src="./中学_files/jquery1.42.min.js"></script>
 
+<script src="./中学_files/jquery.SuperSlide.2.1.1.js"></script>
 
-## MdEditor的功能列表演示
+<script language="Javascript"> document.oncontextmenu=new Function("event.returnValue=false"); document.onselectstart=new Function("event.returnValue=false"); </script>
 
-# 标题H1
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?3214ce544d83b98fcaa3b25a96535d52";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm, s);})();</script>
 
-## 标题H2
+<div style="position: absolute;  width: 100%; height: 100%; z-index: -1; top: 0; bottom: 0;  left: 0; right: 0;"><img src="./中学_files/bg_body.jpg" style="position: fixed; width: 100%; height: 100%;"></div>
 
-### 标题H3
+<div class="container"><a href="http://www.xygz.com.cn/#" class="logo"><img src="./中学_files/20200608155622_5jit9fm0ml.png"></a><div id="slideBox" class="slideBox"><div class="hd"><ul><li class=""></li><li class="on"></li></ul></div><div class="bd"><ul><li style="display: none;"><a href="javascript:;"><img src="./中学_files/20200426102106_mutambfcmv.png"></a></li><li style="display: list-item;"><a href="javascript:;"><img src="./中学_files/20200506160858_s78t0ivwt8.png"></a></li></ul></div></div><script type="text/javascript">jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true});</script><div style=" overflow: hidden; margin: 20px 0;"><div class="left"><div class="title"> 新闻资讯 <a href="http://www.xygz.com.cn/node/5972">更多</a></div><div class="box"><ul class="list"><li><span class="date">2021-01-28</span><a target="_blank" href="http://www.xygz.com.cn/info/72177" title="信阳高级中学印刷品项目招标公告 ">信阳高级中学印刷品项目招标公告 </a></li><li><span class="date">2021-01-12</span><a target="_blank" href="http://www.xygz.com.cn/info/71424" title="信阳高中2022届举行高二上学期第三次联考表彰暨“发起冬季攻势 迎战学考期末”主题活动">信阳高中2022届举行高二上学期第三次联考表彰暨..</a></li><li><span class="date">2021-01-02</span><a target="_blank" href="https://mp.weixin.qq.com/s/6bDRjqzmQ1s1K9qKdEmZ-A" title="如歌岁月，如诗校园 ！信阳高中文化艺术节落下帷幕！">如歌岁月，如诗校园 ！信阳高中文化艺术节落下..</a></li><li><span class="date">2020-12-30</span><a target="_blank" href="http://www.xygz.com.cn/info/72178" title="来自福建农林大学的感谢信">来自福建农林大学的感谢信</a></li><li><span class="date">2020-12-28</span><a target="_blank" href="http://www.xygz.com.cn/info/71239" title="弘扬民族文化精神  演绎书法神奇魅力——信阳高中隆重举行书法比赛">弘扬民族文化精神 演绎书法神奇魅力——信阳高..</a></li><li><span class="date">2020-12-25</span><a target="_blank" href="http://www.xygz.com.cn/info/71240" title="信阳高中棋社举行“以棋会友，明知达理”棋艺比赛">信阳高中棋社举行“以棋会友，明知达理”棋艺比赛</a></li></ul></div></div><div class="right"><div class="title"> 通知公告 <a href="http://www.xygz.com.cn/node/5994">更多</a></div><div class="box"><ul class="list"><li><span class="date">2021-01-28</span><a target="_blank" href="http://www.xygz.com.cn/info/72177" title="信阳高级中学印刷品项目招标公告 ">信阳高级中学印刷品项目招标公告 </a></li><li><span class="date">2020-12-21</span><a target="_blank" href="http://www.xygz.com.cn/info/71035" title="信阳高级中学2020年招才引智公开招聘教师进入体检人员名单">信阳高级中学2020年招才引智公开招聘教师进入体..</a></li><li><span class="date">2020-12-11</span><a target="_blank" href="http://www.xygz.com.cn/info/70618" title="信阳高中2020年招才引智绿色通道公开招聘教师面试考核公告">信阳高中2020年招才引智绿色通道公开招聘教师面..</a></li><li><span class="date">2020-10-15</span><a target="_blank" href="http://www.xygz.com.cn/info/61884" title="信阳高级中学学生心理健康中心改建装修项目竞争性谈判公告">信阳高级中学学生心理健康中心改建装修项目竞争..</a></li><li><span class="date">2020-08-20</span><a target="_blank" href="https://mp.weixin.qq.com/s/SQac2W46tRZmsZT_5_Mw1g" title="信阳高中2020级高一新生分班查询及入校流程">信阳高中2020级高一新生分班查询及入校流程</a></li><li><span class="date">2020-07-24</span><a target="_blank" href="https://mp.weixin.qq.com/s/6eEKS5Kp33nRFJZs6Tdx2w" title="信阳高中2020年面向全国公开选调在职教师公告">信阳高中2020年面向全国公开选调在职教师公告</a></li></ul></div></div></div><div class="bottom"><ol><a onclick="SetHome(this,'http://www.xygz.com.cn/');">设为首页</a>&nbsp;| <a href="http://www.xygz.com.cn/info/51334" target="_blank">关于我们</a>&nbsp;| <a href="http://www.xygz.com.cn/cmscp/index.do">后台管理</a> copyright 2019&nbsp;版权所有&nbsp;信阳高级中学 <a style="text-decoration: none;" href="http://beian.miit.gov.cn/">豫ICP备13022774号</a></ol><ol style="    width: 866px; margin: 0 auto;"><span><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41150202000074"><img src="./中学_files/batb.png" style="float:left; margin-top: 2px;"><p style="float:left;margin: 0px 0px 0px 5px;">豫公网安备 41150202000074号</p></a></span><span>电话：0376-6682186 </span><span>地址：河南省信阳市文化街6号 </span><span>邮编：464000 </span><span>电子邮件:33355626@qq.com</span></ol><a href="http://www.xygz.com.cn/node/5970" class="btn_a"><img src="./中学_files/btn_login.png" class="btn_login"></a></div></div>
 
-#### 标题H4
+<div class="container"></div>
 
-##### 标题H5
+<script type="text/javascript" language="javascript">function SetHome(obj,url) {try {obj.style.behavior ='url(#default#homepage)';obj.setHomePage(url);} catch (e) {if (window.netscape) {try {netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");} catch (e) {alert("抱歉，此操作被浏览器拒绝！\n\n请在浏览器地址栏输入“about:config”并回车然后将[signed.applets.codebase_principal_support]设置为'true'");} } else {alert("抱歉，您所使用的浏览器无法完成此操作。\n\n您需要手动将【" + url + "】设置为首页。");} } } function toDesktop(sUrl,sName) {try {var WshShell =new ActiveXObject("WScript.Shell");var oUrlLink =WshShell.CreateShortcut(WshShell.SpecialFolders("Desktop") + "\\" + sName + ".url");oUrlLink.TargetPath =sUrl;oUrlLink.Save();} catch (e) {alert("当前IE安全级别不允许操作！");} } </script>
 
-###### 标题H5
+<script>var a=window.screen.width;if (a<500) {$("body").css("margin-left","6%");} </script>
 
-### 字符效果和横线等
-----
-
-~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
-
-*斜体字*      _斜体字_
-
-**粗体**  __粗体__
-
-***粗斜体*** ___粗斜体___
-
-上标：X<sub>2</sub>，下标：O<sup>2</sup>
-
-**缩写(同HTML的abbr标签)**
-> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
-
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-### 引用 Blockquotes
-
-> 引用文本 Blockquotes
-
-引用的行内混合 Blockquotes
-
-> 引用：如果想要插入空白换行`即<br />标签`，在插入处先键入两个以上的空格然后回车即可，[普通链接](https://www.mdeditor.com/)。
-
-### 锚点与链接 Links
-[普通链接](https://www.mdeditor.com/)
-[普通链接带标题](https://www.mdeditor.com/ "普通链接带标题")
-直接链接：<https://www.mdeditor.com>
-[锚点链接][anchor-id]
-[anchor-id]: https://www.mdeditor.com/
-[mailto:test.test@gmail.com](mailto:test.test@gmail.com)
-GFM a-tail link @pandao
-邮箱地址自动链接 test.test@gmail.com  www@vip.qq.com
-> @pandao
-
-### 多语言代码高亮 Codes
-
-#### 行内代码 Inline code
-
-
-执行命令：`npm install marked`
-
-#### 缩进风格
-
-即缩进四个空格，也做为实现类似 `<pre>` 预格式化文本 ( Preformatted Text ) 的功能。
-
-    <?php
-        echo "Hello world!";
-    ?>
-预格式化文本：
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
-
-#### JS代码
-```javascript
-function test() {
-	console.log("Hello world!");
-}
-```
-
-#### HTML 代码 HTML codes
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <meta name="keywords" content="Editor.md, Markdown, Editor" />
-        <title>Hello world!</title>
-        <style type="text/css">
-            body{font-size:14px;color:#444;font-family: "Microsoft Yahei", Tahoma, "Hiragino Sans GB", Arial;background:#fff;}
-            ul{list-style: none;}
-            img{border:none;vertical-align: middle;}
-        </style>
-    </head>
-    <body>
-        <h1 class="text-xxl">Hello world!</h1>
-        <p class="text-green">Plain text</p>
-    </body>
-</html>
-```
-### 图片 Images
-
-图片加链接 (Image + Link)：
-
-
-[![](https://www.mdeditor.com/images/logos/markdown.png)](https://www.mdeditor.com/images/logos/markdown.png "markdown")
-
-> Follow your heart.
-
-----
-### 列表 Lists
-
-#### 无序列表（减号）Unordered Lists (-)
-
-- 列表一
-- 列表二
-- 列表三
-
-#### 无序列表（星号）Unordered Lists (*)
-
-* 列表一
-* 列表二
-* 列表三
-
-#### 无序列表（加号和嵌套）Unordered Lists (+)
-+ 列表一
-+ 列表二
-    + 列表二-1
-    + 列表二-2
-    + 列表二-3
-+ 列表三
-    * 列表一
-    * 列表二
-    * 列表三
-
-#### 有序列表 Ordered Lists (-)
-
-1. 第一行
-2. 第二行
-3. 第三行
-
-#### GFM task list
-
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-    - [ ] GFM task list 3-3
-- [ ] GFM task list 4
-    - [ ] GFM task list 4-1
-    - [ ] GFM task list 4-2
-
-----
-
-### 绘制表格 Tables
-
-| 项目        | 价格   |  数量  |
-| --------   | -----:  | :----:  |
-| 计算机      | $1600   |   5     |
-| 手机        |   $12   |   12   |
-| 管线        |    $1    |  234  |
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
-
-----
-
-#### 特殊符号 HTML Entities Codes
-
-&copy; &  &uml; &trade; &iexcl; &pound;
-&amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot;
-
-X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
-
-18&ordm;C  &quot;  &apos;
-
-[========]
-
-### Emoji表情 :smiley:
-
-> Blockquotes :star:
-
-#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
-
-- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
-- [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
-- [x] [ ] :smiley: this is a complete item :smiley:;
-- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao;
-- [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
-    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
-    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
-
-#### 反斜杠 Escape
-
-\*literal asterisks\*
-
-[========]
-### 科学公式 TeX(KaTeX)
-
-$$E=mc^2$$
-
-行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。
-
-$$x > y$$
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
-
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-
-多行公式：
-
-```math
-\displaystyle
-\left( \sum\_{k=1}^n a\_k b\_k \right)^2
-\leq
-\left( \sum\_{k=1}^n a\_k^2 \right)
-\left( \sum\_{k=1}^n b\_k^2 \right)
-```
-```katex
-\displaystyle
-    \frac{1}{
-        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{
-        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {
-        1+\frac{e^{-6\pi}}
-        {1+\frac{e^{-8\pi}}
-         {1+\cdots} }
-        }
-    }
-```
-```latex
-f(x) = \int_{-\infty}^\infty
-    \hat f(\xi)\,e^{2 \pi i \xi x}
-    \,d\xi
-```
-### 分页符 Page break
-
-> Print Test: Ctrl + P
-
-[========]
-
-### 绘制流程图 Flowchart
-
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-[========]
-
-### 绘制序列图 Sequence Diagram
-
-```seq
-Andrew->China: Says Hello
-Note right of China: China thinks\nabout it
-China-->Andrew: How are you?
-Andrew->>China: I am good thanks!
-```
-### End
